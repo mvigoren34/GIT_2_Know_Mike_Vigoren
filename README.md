@@ -5,10 +5,10 @@ Recently, I started looking for new roles outside my current one and created thi
 
 
 
-*  [Resume](https://gitlab.com/michael-vigoren/git-to-know-mike-vigoren/-/blob/master/Resume/MikeVigorenResume2021.pdf)
-*  [White Paper](https://gitlab.com/michael-vigoren/git-to-know-mike-vigoren/-/blob/master/MJV_WhitePaper/MJV_WhitePaper.pdf)
-*  [Mike Vigoren History](https://gitlab.com/michael-vigoren/git-to-know-mike-vigoren/-/blob/master/MJV_PersonalHistory/Git_to_know_MJV.pdf)
-*  [Code](https://gitlab.com/michael-vigoren/git-to-know-mike-vigoren/-/blob/master/Code/mjv_code.ipynb)
+*  [Resume](https://github.com/mvigoren34/GIT_2_Know_Mike_Vigoren/blob/main/Resume/Mike%20Vigoren%20Resume.pdf)
+*  [White Paper](https://github.com/mvigoren34/GIT_2_Know_Mike_Vigoren/blob/main/MJV_WhitePaper/MJV_WhitePaper.pdf)
+*  [Mike Vigoren History](https://github.com/mvigoren34/GIT_2_Know_Mike_Vigoren/blob/main/MJV_PersonalHistory/Git_to_know_MJV.pdf)
+*  [Code](https://github.com/mvigoren34/GIT_2_Know_Mike_Vigoren/blob/main/Code/mjv_code.ipynb)
 * [Hire Me](https://youtu.be/fuRcC_TwNm4)
 * [My website](https://mikevigoren.com/)
 
